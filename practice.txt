@@ -5,3 +5,5 @@ This is new addition.
 Currently i am on master.
 
 New feature in master
+
+Hey, I have just made a branch feature. 
