@@ -7,3 +7,5 @@ Currently i am on master.
 New feature in master
 
 Hi i am new. h
+
+I have made a change on feature branch. 
