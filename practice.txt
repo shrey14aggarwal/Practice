@@ -9,3 +9,5 @@ New feature in master
 Hey, I have just made a branch feature. 
 
 Feature 2. 
+
+Feature 3. 
